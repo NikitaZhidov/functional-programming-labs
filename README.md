@@ -107,7 +107,7 @@
 <h2>Задание 7</h2>
 
 Разработайте процедуру для построения графического представления способов размещения ферзей, получаемых в задании 6. Используйте библиотеку 2htdp/image.
-
+![alt text](https://github.com/NikitaZhidov/functional-programming-labs/blob/master/example.png)
 
 <h2>Задание 8</h2>
 
